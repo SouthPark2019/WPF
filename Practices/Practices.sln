@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBinding", "DataBinding\DataBinding.csproj", "{F3BFA069-E0B0-4855-904C-F496075E2977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试用户控件的Background", "测试用户控件的Background\测试用户控件的Background.csproj", "{91C1D15D-964F-476F-939A-ABE0FC0EF52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BFA069-E0B0-4855-904C-F496075E2977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BFA069-E0B0-4855-904C-F496075E2977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BFA069-E0B0-4855-904C-F496075E2977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BFA069-E0B0-4855-904C-F496075E2977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C1D15D-964F-476F-939A-ABE0FC0EF52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C1D15D-964F-476F-939A-ABE0FC0EF52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C1D15D-964F-476F-939A-ABE0FC0EF52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C1D15D-964F-476F-939A-ABE0FC0EF52D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94CD252E-6999-4688-8FB7-74B063341254}
+	EndGlobalSection
+EndGlobal
